@@ -28,19 +28,19 @@ const Contact = () => {
     {
       icon: <Mail className="w-6 h-6" />,
       title: "Email",
-      value: "ho.anloc@example.com",
-      link: "mailto:ho.anloc@example.com"
+      value: "th0935057511@gmail.com",
+      link: "mailto:th0935057511@gmail.com"
     },
     {
       icon: <Phone className="w-6 h-6" />,
       title: "Phone",
-      value: "+84 123 456 789",
-      link: "tel:+84123456789"
+      value: "+84 766 552 398",
+      link: "tel:+84766552398"
     },
     {
       icon: <MapPin className="w-6 h-6" />,
       title: "Location",
-      value: "Ho Chi Minh City, Vietnam",
+      value: "Da Nang City, Vietnam",
       link: "#"
     }
   ];
